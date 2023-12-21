@@ -21,3 +21,5 @@ System specs:
 CPU= 12th Gen Intel(R) Core(TM) i5-12450H
 GPU= NVIDIA GeForce RTX 3050 Laptop GPU
 RAM= 16 GB DDR5 
+
+Rendered Video Link: https://drive.google.com/file/d/1vPJyCR5JwAsoRU2ejzCJZW5_CLJlxCnT/view?usp=sharing
